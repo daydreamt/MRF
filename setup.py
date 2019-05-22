@@ -5,6 +5,6 @@ setup(
    version='0.001',
    description='Binary MRF in Pytorch',
    author='daydreamt',
-   packages=['MRF'], 
+   packages=['mrf'], 
    install_requires=['torch']
 )
