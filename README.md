@@ -1,4 +1,5 @@
-Random Markov Fields for text in pytorch hack
+Binary Random Markov Fields for text in Pytorch. Inference with belief propagation. This is an ugly hack.
+
 WIP
 
 ![Equations](static/our_potentials.png)
