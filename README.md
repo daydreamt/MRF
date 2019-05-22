@@ -2,5 +2,5 @@ Binary Random Markov Fields for text in Pytorch. Inference with belief propagati
 
 WIP
 
-![Equations](static/our_potentials.png)
+![Equations](our_potentials.png)
 Source of image: https://www.youtube.com/watch?v=meBWAboEWQk
